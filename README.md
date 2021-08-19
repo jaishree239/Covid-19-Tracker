@@ -3,9 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## `Shows Live Cases, Recoveries, Deaths (clickable tabs)`
-![]covid-tracker-1.png
+![](covid-tracker-1.png)
 
-### `npm test`
+### `Shows Worldwide cases and Country Based cases`
+![](covid-tracker-2.png)
+
+![](covid-tracker-3.png)
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
